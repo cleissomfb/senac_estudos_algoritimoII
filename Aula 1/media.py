@@ -1,3 +1,3 @@
 x = input("Digite um número: ")
-
-print("A metade de ", x , " é " , x/2)
+y = x/2
+print("A metade de ", x , " é " , y)
